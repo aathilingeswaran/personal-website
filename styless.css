@@ -1,0 +1,54 @@
+/* Header styles */
+header {
+    background-color: cyan;
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Summary styles */
+.resume h2:first-child {
+    color: #FF00CC; /* Blue color for the summary section */
+}
+h2 {
+    color: #007BFF;
+    border-bottom: 1px solid #ccc;
+    margin-top: 3;
+}
+li {
+    margin-bottom: 10px;
+    color: red;
+}
+
+.resume h3{
+  color:orange;
+}
+
+.resume p{
+  color:red;
+}
+
+/* Gender Section */
+
+
+.resume p {
+    color: red; /* Change the gender text color to cyan */
+}
+
+/* Change the color of "Degree 1" and "Degree 2" sections */
+
+.resume h3 {
+    color:orange; /* Change the color of h3 tags to cyan */
+}
+
+.resume p {
+    color:#3300FF; /* Leave the gender text color as gray */
+}
+
+/* Style for the image */
+header img {
+    width: 250px; /* Adjust the width as needed */
+    height: 250px; /* Maintain the aspect ratio */
+    margin: 0px; /* Add margin for spacing */
+}
+
